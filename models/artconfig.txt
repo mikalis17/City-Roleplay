@@ -1,2 +1,5 @@
 AddCharModel(305, 20001, "lvpdpc2.dff", "lvpdpc2.txd");
-AddCharModel(305, 20002, "lapdpd2.dff", "lapdpd2.txd");
+AddCharModel(168, 20002, "bmochil.dff", "bmochil.txd");
+AddCharModel(121, 20003, "dnb1.dff", "dnb1.txd");
+AddCharModel(122, 20004, "dnb2.dff", "dnb2.txd");
+AddCharModel(123, 20005, "dnb3.dff", "dnb3.txd");
